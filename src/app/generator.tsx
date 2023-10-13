@@ -14,12 +14,20 @@ interface GeneratorProps {
 }
 
 export default function Generator({ data }: GeneratorProps) {
-  const [nameGenerated, setNameGenerated] = useState(false);
+  const [generatedName, setGeneratedName] = useState('');
   const [selectedLetter, setSelectedLetter] = useState(data.letters[0]);
   const [selectedTheme, setSelectedTheme] = useState(Object.keys(data.themes)[0]);
 
   function generateName() {
-    setNameGenerated(true);
+    const resultArray = data.themes[selectedTheme][selectedLetter];
+    const randomName = resultArray[Math.floor(Math.random() * resultArray.length)];
+
+    // Ignore result if the generated name is the same as the currently displayed name
+    if (randomName === generatedName) {
+      generateName();
+    } else {
+      setGeneratedName(randomName);
+    }
   }
 
   return (
@@ -55,11 +63,11 @@ export default function Generator({ data }: GeneratorProps) {
         </select>
       </div>
       <button className="mt-4 rounded-md border border-slate-600 bg-slate-800 px-4 py-2" onClick={() => generateName()}>
-        {nameGenerated ? 'Regenerate Name' : 'Generate Name'}
+        {generatedName ? 'Regenerate Name' : 'Generate Name'}
       </button>
-      {nameGenerated && (
+      {generatedName && (
         <div className="mt-8 flex h-[200px] w-[500px] items-center justify-center rounded-lg bg-slate-800">
-          <div className="text-3xl">Abyssinian Owl</div>
+          <div className="text-3xl">{generatedName}</div>
         </div>
       )}
     </>
