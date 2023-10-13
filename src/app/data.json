@@ -29,32 +29,165 @@
   ],
   "themes": {
     "Birds": {
-      "A": ["h", "e", "y"],
-      "B": ["h", "e", "y"],
-      "C": ["h", "e", "y"],
-      "D": ["h", "e", "y"],
-      "E": ["h", "e", "y"],
-      "F": ["h", "e", "y"],
-      "G": ["h", "e", "y"],
-      "H": ["h", "e", "y"],
-      "I": ["h", "e", "y"],
-      "J": ["h", "e", "y"],
-      "K": ["h", "e", "y"],
-      "L": ["h", "e", "y"],
-      "M": ["h", "e", "y"],
-      "N": ["h", "e", "y"],
-      "O": ["h", "e", "y"],
-      "P": ["h", "e", "y"],
-      "Q": ["h", "e", "y"],
-      "R": ["h", "e", "y"],
-      "S": ["h", "e", "y"],
-      "T": ["h", "e", "y"],
-      "U": ["h", "e", "y"],
-      "V": ["h", "e", "y"],
-      "W": ["h", "e", "y"],
-      "X": ["h", "e", "y"],
-      "Y": ["h", "e", "y"],
-      "Z": ["h", "e", "y"]
+      "A": [
+        "Abyssinian Owl",
+        "Atoll Fruit Dove",
+        "Amazon Kingfisher",
+        "Aldabra Drongo"
+      ],
+      "B": [
+        "Baglafecht Weaver",
+        "Bananaquit",
+        "Brolga",
+        "Booted Eagle",
+        "Burmese Bushtit"
+      ],
+      "C": [
+        "Cinnabar Boobook",
+        "Corn Crake",
+        "Coal Tit",
+        "Crested Black Tyrant",
+        "Caucasian Snowcock",
+        "Croaking Ground Dove"
+      ],
+      "D": [
+        "Dalmatian Pelican",
+        "Dusky Lark",
+        "Drongo Fantail",
+        "Daurian Jackdaw"
+      ],
+      "E": [
+        "Elusive Antpitta",
+        "Elegant Imperial Pigeon",
+        "Elliots Woodpecker"
+      ],
+      "F": [
+        "Fairy Penguin",
+        "Flappet Lark",
+        "Freckled Nightjar",
+        "Forest Buzzard"
+      ],
+      "G": [
+        "Giant Cowbird",
+        "Greenish Puffleg",
+        "Grey Bush Chat",
+        "Grey Cuckooshrike"
+      ],
+      "H": [
+        "Hairy Woodpecker",
+        "Hooded Grosbeak",
+        "Himalayan Swiftlet",
+        "Huon Catbird"
+      ],
+      "I": [
+        "Ijimas Leaf Warbler",
+        "Invisible Rail",
+        "Island Whistler",
+        "Iris Lorikeet"
+      ],
+      "J": [
+        "Jabiru",
+        "Jungle Bush Quail",
+        "Jamesons Firefinch",
+        "Juniper Titmouse"
+      ],
+      "K": [
+        "Kalahari Scrub Robin",
+        "Kelp Goose",
+        "Kori Bustard",
+        "Koepckes Screech Owl"
+      ],
+      "L": [
+        "Large Frogmouth",
+        "Little Green Pigeon",
+        "Little Pied Flycatcher",
+        "Lesser Woodcreeper"
+      ],
+      "M": [
+        "Macaroni Penguin",
+        "Madagascan Flufftail",
+        "Madagascan Hoopoe",
+        "Morepork"
+      ],
+      "N": [
+        "Naked-faced Spiderhunter",
+        "Noisy Miner",
+        "Neddicky",
+        "Nazca Booby"
+      ],
+      "O": [
+        "Oak Titmouse",
+        "Olive Bee-eater",
+        "Ochre Oriole",
+        "Ornate Lorikeet"
+      ],
+      "P": [
+        "Pied Stilt",
+        "Paradise Riflebird",
+        "Príncipe Speirops",
+        "Palani Laughingthrush"
+      ],
+      "Q": [
+        "Quailfinch",
+        "Quailfinch Indigobird",
+        "Quail-plover",
+        "Quebracho Crested Tinamou"
+      ],
+      "R": [
+        "Rock-loving Cisticola",
+        "Rainbow Starfrontlet",
+        "Ruby-throated Hummingbird",
+        "Royal Tern"
+      ],
+      "S": [
+        "Saffron Siskin",
+        "Sooty Babbler",
+        "Shikra",
+        "Sora",
+        "Siberian Stonechat"
+      ],
+      "T": [
+        "Tibetan Babax",
+        "Taiga Bean Goose",
+        "Tiger Shrike",
+        "Tsingy Wood Rail"
+      ],
+      "U": [
+        "Ultramarine Kingfisher",
+        "Ua Pou Monarch",
+        "Unicolored Blackbird",
+        "Undulated Antpitta"
+      ],
+      "V": [
+        "Veracruz Wren",
+        "Variable Hawk",
+        "Violet Crow",
+        "Versicolored Monarch"
+      ],
+      "W": [
+        "Wahlbergs Eagle",
+        "Wallcreeper",
+        "Watercock",
+        "Western Grebe",
+        "White-necked Puffbird"
+      ],
+      "X": [
+        "Xingu Scale-backed Antbird",
+        "Xaviers Greenbul",
+        "Xantus Hummingbird"
+      ],
+      "Y": [
+        "Yellow Bishop",
+        "Yungas Warbler",
+        "Yucatan Nightjar",
+        "Yellow-sided Flowerpecker"
+      ],
+      "Z": [
+        "Zenaida Dove",
+        "Zebra Finch",
+        "Zapata Sparrow",
+        "Zitting Cisticola"
+      ]
     }
   }
 }
