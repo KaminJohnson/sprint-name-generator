@@ -8,7 +8,13 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://springs.gabelandau.com'),
   title: 'Sprint Name Generator',
+  description: 'Themed name generator for Agile Scrum sprints.',
+  openGraph: {
+    title: 'Sprint Name Generator',
+    description: 'Themed name generator for Agile Scrum sprints.',
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
