@@ -188,6 +188,147 @@
         "Zapata Sparrow",
         "Zitting Cisticola"
       ]
+    },
+    "Pokemon": {
+      "A": [
+        "Abra",
+        "Aerodactyl",
+        "Arbok",
+        "Articuno"
+    ],
+      "B": [
+        "Beedrill",
+        "Blastoise",
+        "Butterfree",
+        "Bulbasaur"
+      ],
+      "C": [
+        "Caterpie",
+        "Chansey",
+        "Charizard",
+        "Clefable"
+      ],
+      "D": [
+        "Ditto",
+        "Dodrio",
+        "Dragonite",
+        "Drowzee"
+      ],
+      "E": [
+        "Eevee",
+        "Ekens",
+        "Electabuzz",
+        "Exeggutor"
+      ],
+      "F": [
+        "Farfetch'd",
+        "Fearow",
+        "Flareon"
+      ],
+      "G": [
+        "Growlithe",
+        "Gengar",
+        "Geodude",
+        "Gyrados"
+      ],
+      "H": [
+        "Haunter",
+        "Hitmonlee",
+        "Horsea",
+        "Hypno"
+      ],
+      "I": [
+        "Ivysaur",
+        "Igglybuff"
+      ],
+      "J": [
+        "Jigglypuff",
+        "Jolteon",
+        "Jynx"
+      ],
+      "K": [
+        "Kabuto",
+        "Kangaskhan",
+        "Kingler",
+        "Krabby"
+      ],
+      "L": [
+        "Lapras",
+        "Lickitung"
+      ],
+      "M": [
+        "Mewtwo",
+        "Magikarp",
+        "Metapod",
+        "Magmar",
+        "Meowth",
+        "Mew"
+      ],
+      "N": [
+        "Nidoqueen",
+        "Nidoking",
+        "Ninetails"
+      ],
+      "O": [
+        "Oddish",
+        "Onix",
+        "Omastar"
+      ],
+      "P": [
+        "Paras",
+        "Pidgeot",
+        "Pidgey",
+        "Pikachu",
+        "Poliwrath",
+        "Psyduck"
+      ],
+      "Q": [
+        "Quagsire",
+        "Quilava"
+      ],
+      "R": [
+        "Rapidash",
+        "Rattata",
+        "Rhyhorn"
+      ],
+      "S": [
+        "Sandshrew",
+        "Sandslash",
+        "Staryu",
+        "Squirtle"
+      ],
+      "T": [
+        "Tangela",
+        "Tauros",
+        "Tentacruel"
+      ],
+      "U": [
+        "Umbreon",
+        "Unown"
+      ],
+      "V": [
+        "Venomoth",
+        "Vaporeon",
+        "Voltorb",
+        "Victreebel",
+        "Vulpix"
+      ],
+      "W": [
+        "Weedle",
+        "Weezing",
+        "Wigglytuff"
+      ],
+      "X": [
+        "Xatu"
+      ],
+      "Y": [
+        "Yanma",
+        "Yamask"
+      ],
+      "Z": [
+        "Zubat",
+        "Zapdos"
+      ]
     }
   }
 }
